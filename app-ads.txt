@@ -1,0 +1,12 @@
+# app-ads.txt for My So Cute Baby (developer: Seungheon Lee)
+#
+# Format (IAB app-ads.txt): <ad system domain>, <publisher ID>, <relationship>, <certification authority ID>
+#   google.com, pub-<AdMob publisher ID>, DIRECT, <certification ID shown in the AdMob console>
+#
+# The line below was copied from the AdMob console dialog "How to set up app-ads.txt for your app"
+# (publisher pub-8143178103770527), read on 2026-10-29.
+# Re-check it in AdMob > Apps > View all apps > app-ads.txt before publishing.
+#
+# This file must be served from the root of the developer website host,
+# e.g. https://soen234.github.io/app-ads.txt  (see README.md).
+google.com, pub-8143178103770527, DIRECT, f08c47fec0942fa0
